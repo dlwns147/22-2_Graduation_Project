@@ -1,3 +1,14 @@
+RL-GAN-Net/GFV # GFV numpy files
+RL-GAN-Net/ckpts # Autoencoder image & weight files
+RL-GAN-Net/RL_ckpt # RL sample files
+RL-GAN-Net/GAN/models # GAN weight files
+RL-GAN-Net/GAN/samples # GAN sample files
+RL-GAN-Net/pytorch_models # RL weight files
+
+*.png
+*.pth
+*.np
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
